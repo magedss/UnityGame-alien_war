@@ -55,6 +55,3 @@ Monster Hunt is a Unity 3D action game where the player fights monsters, interac
 
 ---
 
-## Developer Notes
-
-Every mechanic—from enemy AI to animation control—was fully scripted in **C#**, with an emphasis on algorithmic problem-solving and scalable architecture rather than drag-and-drop solutions.
