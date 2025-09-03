@@ -45,13 +45,6 @@ Monster Hunt is a Unity 3D action game where the player fights monsters, interac
 * Unity Features: Animator Controllers, NavMesh, Physics
 
 ---
+![Gameplay](https://github.com/magedss/UnityGame-alien_war/blob/master/image.png)
 
-## How to Play
-
-1. Launch the game.
-2. Move with WASD and aim with the mouse.
-3. Shoot monsters and avoid attacks.
-4. Defeat the boss to complete the game.
-
----
 
